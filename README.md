@@ -41,9 +41,9 @@ href="https://www.mysql.com target="_blank" rel="noreferrer"> <img src="https://
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish33000&" alt="ashish33000" /></p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ashish33000"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish33000&theme=dracula" />
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashish33000&theme=dracula" />
 </span></a> </p>
 
 

@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, SQL**
 
-- 👨‍💻 All of my projects are available at [Ashish33000/Ashish33000.github.io](Ashish33000.github.io)
+- 👨‍💻 All of my projects are available at Ashish33000.github.io
 
 - 💬 Ask me about **Java**
 

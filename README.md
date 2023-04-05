@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me[ashishbhagat330@gmail.com](ashishbhagat330@gmail.com)
+- 📫 How to reach me [ashishbhagat330@gmail.com]
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fxdOcJz5GUYCGe6ctZR7Lb7MxRoxZFWj/view?usp=sharing)
 

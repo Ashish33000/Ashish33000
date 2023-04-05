@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at[Github](https://github.com/Ashish33000)
 -
-- 👨‍💻 portfolio link[Portfolio](https://ashish33000.github.io/)
+- 👨‍💻 portfolio link[Portfolio](https://ashish33000.github.io)
 
 - 💬 Ask me about **Java**
 

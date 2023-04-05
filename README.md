@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Java, SQL**
 
-- 👨‍💻 All of my projects are available at[portfolio](https://github.com/Ashish33000)
+- 👨‍💻 All of my projects are available at[https://github.com/Ashish33000](https://github.com/Ashish33000)
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **ashishbhagat330@gmail.com**
+- 📫 How to reach me[ashishbhagat330@gmail.com] (ashishbhagat330@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fxdOcJz5GUYCGe6ctZR7Lb7MxRoxZFWj/view?usp=sharing](https://drive.google.com/file/d/1fxdOcJz5GUYCGe6ctZR7Lb7MxRoxZFWj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fxdOcJz5GUYCGe6ctZR7Lb7MxRoxZFWj/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 

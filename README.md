@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, SQL**
+- 🌱 I’m comfortable in  **Java, Springboot,SpringSecurity**
 
 - 👨‍💻 All of my projects are available at[Github](https://github.com/Ashish33000)
 
